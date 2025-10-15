@@ -1,1 +1,3 @@
 .venv_applev
+dataset/crop_box_test/*
+dataset/crop_box_train/*
