@@ -1,4 +1,5 @@
 .venv_applev
 dataset/crop_box_test/*
 dataset/crop_box_train/*
+dataset/crop_box_val/*
 saved_models/*
